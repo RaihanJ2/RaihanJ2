@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Offline First Face Recoginition<br><br>🌱 I’m currently learning Vue, PHP, docker<br><br>👨‍💻 All of my projects are available at https://portofolio-psi-indol.vercel.app/<br><br>📫 How to reach me raihanjansmaillendra.rjs@gmail.com<br><br>⚡ Fun fact i'm good at pushing my limits
+🔭 I’m currently working on [[Offline First Face Recoginition]](https://github.com/RaihanAldy/Face_attendance_recognition) <br><br>🌱 I’m currently learning Vue, PHP, docker<br><br>👨‍💻 All of my projects are available at https://portofolio-psi-indol.vercel.app/<br><br>📫 How to reach me raihanjansmaillendra.rjs@gmail.com<br><br>⚡ Fun fact i'm good at pushing my limits
 
 
 ## 🌐 Socials:
